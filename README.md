@@ -18,4 +18,4 @@ lost to begin a bot in Discord.js? follow these steps and few tips on the intern
 
 7) in nodejs terminal enter ".load discord.js"  [ or filename of downloaded discord.js ]
 
-6)
+todo: put step by step to create a bot and copy the secret into discord.js
